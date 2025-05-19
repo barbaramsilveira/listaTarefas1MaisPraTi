@@ -11,10 +11,12 @@ Este repositório reúne os exercícios do Módulo 1 do curso Dev. Full-Stack Jr
 Aqui foram desenvolvidas as soluções dos exercícios de programação com JavaScript, focando no desenvolvimento de habilidades essenciais para a minha jornada como desenvolvedora.
 
 ---
+## 💻 **Organização dos exrcícios**
+Cada exercício foi resolvido com uma função. Cada tarefa está numerada de acordo com a lista anexa, com o número do exercício em forma de comentário na linha acima da função.
 
 ## 💻 **Como executar os exercícios**
 
-Para rodar os códigos, siga os seguintes passos:
+Para executar os códigos, siga os seguintes passos:
 
 ### **Instale o Node.js**
 
