@@ -8,11 +8,11 @@ Lista de tarefas nº 1 do curso Dev. Full-Stack Jr. 2025/1 - +praTI
 
 Este repositório reúne os exercícios do Módulo 1 do curso Dev. Full-Stack Jr. 2025/1 da +praTI.
 
-Aqui foram desenvolvidas as soluções dos exercícios de programação com JavaScript, focando no desenvolvimento de habilidades essenciais para a minha jornada como desenvolvedora.
+Neste repositório foram desenvolvidas as soluções dos exercícios de lógica de programação com JavaScript, focando no desenvolvimento de habilidades essenciais na jornada como desenvolvedora.
 
 ---
 ## 💻 **Organização dos exrcícios**
-Cada exercício foi resolvido com uma função. Cada tarefa está numerada de acordo com a lista anexa, com o número do exercício em forma de comentário na linha acima da função.
+Cada exercício foi resolvido com uma função. Cada tarefa está numerada de acordo com a lista anexa, sendo que o número do exercício está escrito como comentário na linha acima da função.
 
 ## 💻 **Como executar os exercícios**
 
@@ -27,7 +27,7 @@ Escolha a versão para seu sistema operacional e efetue a instalação.
 
 ### **Instale o pacote prompt-sync**
 
-Para ler dados no console, usamos o prompt-sync. Instale pelo terminal da sua IDE:
+Para solicitar que o usuário digite as informações solicitadas, será usado o módulo "prompt-sync". Instale pelo terminal da sua IDE:
 
 ```bash
 npm install prompt-sync
