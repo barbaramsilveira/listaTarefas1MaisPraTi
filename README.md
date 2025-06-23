@@ -11,7 +11,7 @@ Este repositório reúne os exercícios do Módulo 1 do curso Dev. Full-Stack Jr
 Neste repositório foram desenvolvidas as soluções dos exercícios de lógica de programação com JavaScript, focando no desenvolvimento de habilidades essenciais na jornada como desenvolvedora.
 
 ---
-## 💻 **Organização dos exrcícios**
+## 💻 **Organização dos exercícios**
 Cada exercício foi resolvido com uma função. Cada tarefa está numerada de acordo com a lista anexa, sendo que o número do exercício está escrito como comentário na linha acima da função.
 
 ## 💻 **Como executar os exercícios**
